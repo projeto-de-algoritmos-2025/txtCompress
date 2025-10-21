@@ -27,6 +27,13 @@ Um compressor de arquivo de texto usando o código de Huffman. Podendo ser usado
 
 ## Screenshots
 
+![Homepage](image-1.png)
+
+![Métricas](image-2.png)
+
+![Árvore Gerada](image-3.png)
+
+![Descompressao do Arquivo](image-4.png)
 
 ## Instalação e Ferramentas
 - **Python 3.13**
@@ -59,7 +66,7 @@ Pode ser facilmente usado para ensinar de forma didática e para comprimir grand
 ## Apresentação 
 
 <div align="center">
-<a href="https://www.youtube.com/watch?v=2s-DOS8gRI0"><img src="https://i.imgur.com/6sgT9qo.png" width="50%"></a>
+<a href="https://www.youtube.com/watch?v=2s-DOS8gRI0"><img src="https://www.ime.usp.br/~pf/estruturas-de-dados/aulas/figuressw/Chapter5/HuffTrieEncode.png" width="50%"></a>
 </div>
 
 [![Assista no YouTube](https://img.shields.io/badge/YouTube-Video-red?logo=youtube)](https://www.youtube.com/watch?v=2s-DOS8gRI0)
